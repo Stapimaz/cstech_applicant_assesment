@@ -1,0 +1,3 @@
+C:/Users/Korhan/CLionProjects/cstech/cmake-build-debug/CMakeFiles/cstech.dir
+C:/Users/Korhan/CLionProjects/cstech/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Korhan/CLionProjects/cstech/cmake-build-debug/CMakeFiles/rebuild_cache.dir
